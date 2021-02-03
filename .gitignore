@@ -81,3 +81,6 @@ application.yml
 application.yaml
 application.properties
 application-*.properties
+
+output/*
+!output/.gitkeep
